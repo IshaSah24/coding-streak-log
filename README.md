@@ -1,5 +1,3 @@
-#
-
 # 🚀 My Development Journey — SpeedStrike:coding-streak-log
 
 I didn’t just jump into building this project. Around March, I sat down and actually planned everything — not just “a project,” but a proper **product**. I figured out what I wanted to build, how I was going to build it, and which tech stack would help me get there.
