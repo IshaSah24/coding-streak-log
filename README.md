@@ -7,3 +7,10 @@ Before writing any actual code, I took the time to **polish my backend fundament
 During the process, I faced tons of challenges. That’s when I really started to understand the **importance of component structure**, reusable logic, and maintaining a clean codebase. I learned how writing good backend code helps you think more clearly, and I went deep into concepts like **DAO, service layers, helper functions**, and how to actually apply **DRY** principles in real world backend architecture.
 
 Every time I solved a problem or added a small feature, it felt like a step closer to the bigger goal. I’ve already built and polished a lot, but there’s still so much more I’m excited to add. I honestly can’t wait for the day when I finally push this repo and deploy the project publicly. That moment will mean a lot to me.
+
+
+Updates :
+
+7/7/25
+1) Enhanced the  showWpm  and  modified some  logic there like  - when  user finishes his/her  typing they  should see the wpm component instantly  doesn't matter  how  much  time is remaining
+  
